@@ -1,0 +1,4 @@
+doll 120
+cake 200
+sushi 220
+tiny_car 300
